@@ -62,8 +62,8 @@
     {
       "name": "[APP] TYT",
       "author": "QuocBao",
-      "path": "https://raw.githubusercontent.com/BaoBao666888/ext-vbook-w/main/tyt/plugin.zip",
-      "version": 8,
+      "path": "https://raw.githubusercontent.com/Pribraxzoz/ext-vbook-w/main/tyt/plugin.zip",
+      "version": 4,
       "source": "https://tytnovel.org/",
       "icon": "https://raw.githubusercontent.com/BaoBao666888/ext-vbook-w/main/tyt/icon.png",
       "description": "Đọc truyện từ app TYT.",
